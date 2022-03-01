@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two Lester-sheire louers To the tune of, And yet my thinkes I loue thee.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1620</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14428</idno>
+            <idno type="STC">STC 15401</idno>
+            <idno type="EEBO-CITATION">99835352</idno>
+            <idno type="PROQUEST">99835352</idno>
+            <idno type="VID">200101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200101)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2123:412-413)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two Lester-sheire louers To the tune of, And yet my thinkes I loue thee.</title>
+               </titleStmt>
+               <extent>1 sheet ([1]) p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed [by W. Jones?] for Iohn Trundle,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[ca. 1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "Walking in a meddow greene,".</note>
+                  <note>Printer's name from STC; publication date conjectured by STC.</note>
+                  <note>In two parts; woodcuts at head of each part.</note>
+                  <note>Printed on verso: STC 5612 : "The wofull complaint of a love-sicke mayde ("The young mans kinde reply")".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:200101:1" rendition="simple:additions"/>
+            <pb facs="tcp:200101:1" rendition="simple:additions"/>
+            <head>The two Leſter-ſheire Louers.</head>
+            <opener>To the tune of, and yet my thinkes I loue thee.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>VValking In a meadow greene,</l>
+                  <l>for recreation ſake,</l>
+                  <l>To driue away ſome ſad thoughtes</l>
+                  <l>which ſorrofull did mee make,</l>
+                  <l>I ſpyed two lonely louers,</l>
+                  <l>did beare ech others woe.</l>
+                  <l>To poynt a place of meeting,</l>
+                  <l>vpon the meddow bro.</l>
+               </lg>
+               <lg>
+                  <l>Saying come my louely ſweeting,</l>
+                  <l>com at thee downe by mée.</l>
+                  <l>It is a merry meeting</l>
+                  <l>if wee two can agrée.</l>
+                  <l>If wee two can agree,</l>
+                  <l>to this I thee doe woe,</l>
+                  <l>That thou ſhouldſt onely méete mée:</l>
+                  <l>vppon the meddow browe.</l>
+               </lg>
+               <lg>
+                  <l>My Father is a gentle-man,</l>
+                  <l>my Mother loues mee deere:</l>
+                  <l>She hath giuen mée a newetie,</l>
+                  <l>of twenty pound a yéere,</l>
+                  <l>And I haue ſpent it all.</l>
+                  <l>nay more I will ſpend toe</l>
+                  <l>So thou wilt graunt to meete mee,</l>
+                  <l>vppon the meddow broe.</l>
+               </lg>
+               <lg>
+                  <l>My Maiſter hath forwarnd mee,</l>
+                  <l>out of thy company,</l>
+                  <l>And oftentimes hath chid me:</l>
+                  <l>for ſtaying ſo long with thée,</l>
+                  <l>For ſtaying ſo long with thee,</l>
+                  <l>but I will ſtay the moe:</l>
+                  <l>So thou wilt graunt to méete mee,</l>
+                  <l>vppon the meddow broe.</l>
+               </lg>
+               <lg>
+                  <l>Sweet heart quoth ſhee I cannot,</l>
+                  <l>for opertunitie:</l>
+                  <l>A thing I can't accompliſh,</l>
+                  <l>our meetng doth denie</l>
+                  <l>Els ſhoulds thou mee commend:</l>
+                  <l>to ride to runne or goe:</l>
+                  <l>Were it not ſo I'de méete thée,</l>
+                  <l>vppon the meddow bro.</l>
+               </lg>
+               <lg>
+                  <l>Swéete heart quoth he who feare you,</l>
+                  <l>or who dares do thée wrong,</l>
+                  <l>Doſt feare thy maiſters Heauie hand:</l>
+                  <l>or miſtris nimble toung,</l>
+                  <l>Doſt feare the tell tale ſeruants</l>
+                  <l>but let ſuch matters goe.</l>
+                  <l>And prithe ſweeting méete mee,</l>
+                  <l>vppon the meddow bro.</l>
+               </lg>
+               <lg>
+                  <l>Quoth ſhee you doe miſtake ſir,</l>
+                  <l>t'is no ſuch thing I feare,</l>
+                  <l>Therefore to vrge it farther:</l>
+                  <l>I doe intreat forbeare,</l>
+                  <l>I doe not greatly care,</l>
+                  <l>for ought that they can doe.</l>
+                  <l>Annother thing doth hinder mée,</l>
+                  <l>to méete on meddow bro.</l>
+               </lg>
+               <lg>
+                  <l>What ſhould the occaſion then bee,</l>
+                  <l>O thou ſhouldſt be ſo preſiſe,</l>
+                  <l>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r what is it ſhould cauſe thée:</l>
+                  <l>in loue to be vnwiſe.</l>
+                  <l>Moſt thou my loue deſpiſe,</l>
+                  <l>or wouldſt thou loue forgoe,</l>
+                  <l>I pray thee ſwéeting méete mee,</l>
+                  <l>vppon the meddow bro.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:200101:2" rendition="simple:additions"/>
+               <head>The Second Part.</head>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>I Tell thee gentle ſweeting,</l>
+                  <l>Queene <hi>Venus</hi> neuer runne:</l>
+                  <l>So ſwift after <hi>Adonis.</hi>
+                  </l>
+                  <l>as I to thee would come,</l>
+                  <l>Queene <hi>Dina</hi> in her ſhower of gould;</l>
+                  <l>did not ſo willing doe,</l>
+                  <l>As I would be to meete thee.</l>
+                  <l>vppon the meddow bro,</l>
+               </lg>
+               <lg>
+                  <l>Qouth he as did Dame <hi>Venus<g ref="char:punc">▪</g>
+                     </hi>
+                  </l>
+                  <l>wouldſt thou of mee make triall,</l>
+                  <l>I would not like <hi>Adonis,</hi>
+                  </l>
+                  <l>ſo fondly giue deniall.</l>
+                  <l>No for thy ſake my ſweeting,</l>
+                  <l>all ill I vnder goe.</l>
+                  <l>So thou wouldſt graunt to mett mee,</l>
+                  <l>vppon the meddow bro.</l>
+               </lg>
+               <lg>
+                  <l>Sir ſince I ſée you are louing,</l>
+                  <l>i'le tel to you the cauſe,</l>
+                  <l>You know both maides and young men</l>
+                  <l>liue vnder countries lawes.</l>
+                  <l>And ſhould wee be but ſpied,</l>
+                  <l>we ſhould haue men enough:</l>
+                  <l>Where we ſhould be derided,</l>
+                  <l>vpon the meddow brow.</l>
+               </lg>
+               <lg>
+                  <l>If this be all you feare ſweet,</l>
+                  <l>leaue this alone to me,</l>
+                  <l>I'le poynt a time conuenient,</l>
+                  <l>non ſhall our meeting ſee.</l>
+                  <l>Where wee will merry be,</l>
+                  <l>and talk of whats to doe</l>
+                  <l>Where a kiſſe or twaine i'le giue thee,</l>
+                  <l>vppon the meddow brooe,</l>
+               </lg>
+               <lg>
+                  <l>I when you haue me there Sir,</l>
+                  <l>you then may doe your pleaſure:</l>
+                  <l>But I will haue you ſweare ſir,</l>
+                  <l>ſtile for to doe in meaſure.</l>
+                  <l>Wee might repent at leaſure.</l>
+                  <l>ſhould wee out of meaſure doe:</l>
+                  <l>I am half affraide to meete you,</l>
+                  <l>vppon the meddow brooe.</l>
+               </lg>
+               <lg>
+                  <l>Sweete heart I heare proteſt and ſwere</l>
+                  <l>to vſe you there moſt kinde,</l>
+                  <l>Keep promiſe in your meeting,</l>
+                  <l>and loue mee as you find,</l>
+                  <l>I will not croſſe your minde,</l>
+                  <l>what ſo euer I doe doe,</l>
+                  <l>So you would grant to meete mee:</l>
+                  <l>vppon the meddow brooe.</l>
+               </lg>
+               <lg>
+                  <l>Then heres my hand i'le meete thee,</l>
+                  <l>appoynt both place and time</l>
+                  <l>Quoth he vppon the meddow brooe</l>
+                  <l>to morrow morne betime.</l>
+                  <l>I'le meete (quoth ſhee) bout fiue a clock</l>
+                  <l>and thats the moſt i'le doe:</l>
+                  <l>So gentle heart a kiſſe and part,</l>
+                  <l>and méete on meddow brow.</l>
+               </lg>
+               <lg>
+                  <l>Away then went theſe louing, twaine</l>
+                  <l>but when that they did meete:</l>
+                  <l>Let ſuch as know the vſe out,</l>
+                  <l>iudg how theſe two did gréete:</l>
+                  <l>But might I ſpend my iudgment,</l>
+                  <l>as an other man may doe.</l>
+                  <l>I doubt they plaid the wantons,</l>
+                  <l>vpon the meddow brooe,</l>
+               </lg>
+               <lg>
+                  <l>What ere they did might I but know</l>
+                  <l>my toung ſhould proue no ranger,</l>
+                  <l>But did they well or did they ill,</l>
+                  <l>let them oppoſe the daunger.</l>
+                  <l>Yet this ſhall be my wiſh for all,</l>
+                  <l>that about ſuch buſines goe.</l>
+                  <l>Heauen ſend all merrie meeting,</l>
+                  <l>vppon the meddow broe.</l>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>At London Printed for Iohn Trundle.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
